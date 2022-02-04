@@ -1,5 +1,7 @@
 ### Architectural Engineer & Software Developer ♪
 
+--- 
+
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moha-AlHanbali&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,11 +12,15 @@
 
 <br>
 
-### Languages and Tools:
+---
+
+### Tools and Languages
+
+<br>
 
 <p align="center">
   
-<!--  LANGUAGES -->
+<!-- LANGUAGES -->
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
@@ -41,15 +47,16 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
   
   
-<!--  Libraries  -->
+<!-- Libraries -->
   <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 
-<!--   TESTING -->
+<!-- TESTING -->
   
   <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" height="40" style="vertical-align:top; margin:4px">
 
-  <!--  DATABASES -->
+  <!-- DATABASES -->
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
@@ -57,17 +64,27 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" height="40" style="vertical-align:top; margin:4px">
   
-<!--  TOOLS AND PLATFORMS -->
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> 
+<!-- TOOLS -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">  
   <img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" height="40" style="vertical-align:top; margin:4px">  
   <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" height="40" style="vertical-align:top; margin:4px">  
-  <img src=" https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">  
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">  
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/gunicorn.svg" alt="Gunicorn" height="40" style="vertical-align:top; margin:4px">  
 
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  
+<!--  ENVIORMENTS -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" height="40" style="vertical-align:top; margin:4px">
+  
+<!-- PLATFORMS -->
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/auth0.svg" alt="Auth0" height="40" style="vertical-align:top; margin:4px">   
+  
+<!-- DEPLOYMENT -->
+   <img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" alt="Heroku" height="40" style="vertical-align:top; margin:4px">  
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/netlify.svg" alt="Netlify" height="40" style="vertical-align:top; margin:4px">  
+  
+
+  
 </p>
