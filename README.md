@@ -15,8 +15,6 @@
 
 <br>
 
-<p align="center">
-  
 | <center> Platforms </center> | <center> Backend </center> | <center> Frontend </center> |
 |----------|----------|----------|
 | <center> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </center> |  <center> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px"> </center> | <center> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px"> </center> |
@@ -26,4 +24,4 @@
 | <center> <img src="https://github.com/mendix.png" alt="Mendix" height="40" style="vertical-align:top; margin:4px"> | <center> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px"> </center> | <center> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> </center> |
 | <center> <img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px"> | <center> <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" height="40" style="vertical-align:top; margin:4px"> </center> | |
 | <center> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </center> | <center> <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px"> </center> |  |
-</p>
+
